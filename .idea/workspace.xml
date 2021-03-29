@@ -7,7 +7,8 @@
       <change afterPath="$PROJECT_DIR$/../database/templates/example.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../database/templates/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../database/templates/sign.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/mod_test/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/mod_test/controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,4 +1,5 @@
 venv
 errors.log
+loggers.log
 __pycache__
 .idea

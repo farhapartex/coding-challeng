@@ -12,6 +12,7 @@ class TestAPIView(MethodView):
         request_data = request.get_json()
         if "is_malicious" in request_data and request_data["is_malicious"]:
             flask_app.logger.error('Processing is_malicious request')
+            flask_app.logger.error('is_malicious = ' + str(request_data['is_malicious']))
             return jsonify({"error": "Data unauthorized"}), 401
 
         flask_app.logger.info('Processing valid request')
